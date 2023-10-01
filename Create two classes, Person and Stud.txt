@@ -1,0 +1,25 @@
+Create two classes, Person and Student, where Student inherits from Person.
+
+The Person class should have the following attributes:
+
+name (string)
+age (integer)
+The Student class should add an additional attribute:
+
+studentID (integer)
+Implement parameterized constructors for both classes to initialize their attributes.
+
+Create objects for both the Person and Student classes and display their details.
+
+Use single inheritance, where the Student class inherits the attributes and methods of the Person class.
+
+Write the classes and a main() function to demonstrate the inheritance relationship and display the details of both the Person and Student objects.
+
+Feel free to include any necessary header files and use the cout statement for output.
+
+
+
+
+
+
+ 
