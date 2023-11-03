@@ -26,6 +26,7 @@ public:
         cin >> feet >> inch;
     }
         friend void add(DM a, DB b);
+        
 };
 void add(DM a, DB b)
 {

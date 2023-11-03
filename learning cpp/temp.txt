@@ -1,0 +1,15 @@
+1
+go to temple
+Not Done
+2
+to study
+Not Done
+3
+to plan
+Done
+4
+to learn to code
+Not Done
+5
+
+Not Done

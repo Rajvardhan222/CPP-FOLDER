@@ -1,0 +1,7 @@
+ detail of the project :
+ 1. user should be able to input his task.
+ 2. User should be able to update his task.
+ 3. User should be able to delete his task.
+ 4. User should be able to mark completed or not in his task.
+  tomorrow work
+ user should be able to view and update task as completed or not
