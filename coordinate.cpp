@@ -1,6 +1,6 @@
-#include<iostream>
-#include<cmath>
-using namespace std;
+#include<iostream.h>
+#include<math.h>
+
 class coordinate{
     int a,b;
     public:
